@@ -40,6 +40,9 @@ a {
   color:black;
 }
 
+.card{
+  background-color: #004aad;
+}
 
 .circular--square { 
   border-radius: 50%; 
